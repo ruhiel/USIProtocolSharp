@@ -5,7 +5,7 @@ using USIProtocolSharp;
 namespace USIProtocolSharpTest
 {
     [TestClass]
-    public class UnitTest1
+    public class USIProtocolSharpTest
     {
         private USIProtocol c = new USIProtocol();
         private bool flag = true;
